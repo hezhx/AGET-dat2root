@@ -3,7 +3,7 @@
 // written by He Zhixuan 
 // Pls contact hezhx21@lzu.edu.cn whenever you have a doubt
 // AGET v3 data structure : 
-// https://hezhx.github.io/2021/11/22/AGET%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/
+// https://tesnus.site/2021/11/22/AGET%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/
 
 #include <string>
 #include <iostream>
