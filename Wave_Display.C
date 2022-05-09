@@ -1,6 +1,8 @@
 // draw 4 waves from .dat.root
 // written by He Zhixuan, hezhx21@lzu.edu.cn
 
+// 0~500 cells chosen from 0~512
+
 #include <iostream>
 
 using namespace std;
